@@ -4,3 +4,6 @@
 [submodule "Unity"]
 	path = Unity
 	url = https://github.com/ThrowTheSwitch/Unity
+[submodule "GPACalculator"]
+	path = GPACalculator
+	url = https://github.com/m-lyons3/GPACalculator
